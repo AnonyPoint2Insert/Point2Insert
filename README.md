@@ -1,3 +1,3 @@
-Welcome to our project page!
+Welcome to Point to Insert (Point2Insert)
 
-https://anonypoint2insert.github.io/Point2Insert/
+Explore our project at: https://anonypoint2insert.github.io/Point2Insert/
